@@ -3,7 +3,7 @@
 This repo contains a full working example of grpc-web including the server,
 envoy proxy and typescript/javascript client
 
-The code is originally taken from official grpc-web repo https://github.com/grpc/grpc-web/tree/master/net/grpc/gateway/examples/helloworld
+The code is taken from official grpc-web repo https://github.com/grpc/grpc-web/tree/master/net/grpc/gateway/examples/helloworld and modified to make it easier to understand the code and execute.
 
 ## Running Server with proxy
 
