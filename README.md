@@ -3,6 +3,8 @@
 This repo contains a full working example of grpc-web including the server,
 envoy proxy and typescript/javascript client
 
+The code is originally taken from official grpc-web repo https://github.com/grpc/grpc-web/tree/master/net/grpc/gateway/examples/helloworld
+
 ## Running Server with proxy
 
 Go to server directory and run the following command to start the docker
